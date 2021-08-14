@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Sarbojit Das</title>
+    <link>https:///www.example.com/tags/scene/</link>
+    <description>Recent content in scene on Sarbojit Das</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Aug 2020 11:00:59 -0400</lastBuildDate><atom:link href="https:///www.example.com/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 6: Covid-19 X-Ray predictor</title>
+      <link>https:///www.example.com/post/project-6/</link>
+      <pubDate>Mon, 10 Aug 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https:///www.example.com/post/project-6/</guid>
+      <description>•	Implement a tool that classifies whether a lung is affected by pneumonia due to covid-19
+•	Images are collected from different resources such as hospital, medical center etc and jupyter and python are used to load the images
+•	Features of images are preprocessed, standardized and normalized.
+•	Tensor flow is used to build CNN model to predict the output
+•	This model is used in app and web.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Wheat Classifier</title>
+      <link>https:///www.example.com/post/project-2/</link>
+      <pubDate>Tue, 12 Apr 2016 11:14:48 -0400</pubDate>
+      
+      <guid>https:///www.example.com/post/project-2/</guid>
+      <description>•Implement a tool that can classify different species of wheat based on certain attributes.
+•A dataset is prepared based on survey and dataset is loaded and read using python on Jupiter platform.
+•K Nearest Neighbor, Decision Tree and Support Vector Machine are used to train the model and select the best fir model.
+•Finally, import the model into apps or webs.
+ The github url for this project: https://github.com/sarbojitdas/Wheat_classifier</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Company Customer churns predictor</title>
+      <link>https:///www.example.com/post/project-1/</link>
+      <pubDate>Thu, 09 Apr 2015 10:58:08 -0400</pubDate>
+      
+      <guid>https:///www.example.com/post/project-1/</guid>
+      <description>• Create a tool that predicts whether a company retains its customer or churns its customer so that company can change its business policy.
+• Customer details are fetched and loaded to the system using python and jupyter.
+• Features from the text of each customer description classify the customer orientation.
+• Random Forest, Naïve Bayes and Support Vector are used and compare the performance of each model and finally select the best fit model.</description>
+    </item>
+    
+  </channel>
+</rss>
